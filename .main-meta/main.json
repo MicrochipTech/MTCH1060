@@ -1,0 +1,44 @@
+{
+   "metaDataVersion":"1.0.0",
+   "category":"com.microchip.other-example",
+   "content":{
+		"metaDataVersion":"1.0.0",
+		"name":"MTCH1060-data-visualizer-config-files",
+		"version":"1.0.0",
+		"displayName":"MTCH1060 Data Visualizer config files",
+		"projectName":"touch-solution-data-visualizer-config-files",
+		"shortDescription":"Data Visualizer config files for Touch Solution Platform",
+
+		"devices":[{
+			"metaDataVersion":"1.0.0",
+			"category":"com.microchip.portal.contentRef",
+			"content":{
+				"metaDataVersion":"1.0.0",
+				"category":"com.microchip.device",
+				"name":"MTCH1060 ",
+				"versionRange":"*"
+			}
+        }],
+
+
+	"keywords":[
+		 "Touch",
+		 "Gesture",
+		 "Capacitive Touch",
+		 "1D Touch",
+		 "2D Touch",
+         "Self Capacitance"
+	],
+	"additionalData": {
+		"longDescription": {
+			"metaDataVersion": "1.0.0",
+			"category": "com.microchip.portal.fileRef",
+			"content": {
+				"metaDataVersion": "1.0.0",
+				"fileName": "./README.md",
+				"mimeType": "text/markdown"
+			}
+		}
+	}	  
+   }
+}
