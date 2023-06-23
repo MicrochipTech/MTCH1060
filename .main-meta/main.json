@@ -27,7 +27,9 @@
 		 "Capacitive Touch",
 		 "1D Touch",
 		 "2D Touch",
-         "Self Capacitance"
+         "Self Capacitance",
+		 "User Interface",
+		 "Home Appliance"
 	],
 	"additionalData": {
 		"longDescription": {
