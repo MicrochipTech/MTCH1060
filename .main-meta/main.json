@@ -4,7 +4,7 @@
    "content":{
 		"metaDataVersion":"1.0.0",
 		"name":"MTCH1060-data-visualizer-config-files",
-		"version":"1.0.0",
+		"version":"2.0.0",
 		"displayName":"MTCH1060 Data Visualizer config files",
 		"projectName":"touch-solution-data-visualizer-config-files",
 		"shortDescription":"Data Visualizer config files for Touch Solution Platform",

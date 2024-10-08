@@ -51,27 +51,53 @@ OverSamp, 1 (Column:1;Row:0)
 Sensitivity, 1 (Column:2;Row:0)
 
 
-CurrFreq, 2 (Column:0;Row:0)
-FWVersion, 2 (Column:1;Row:0)
+CurrFreq, 21 (Column:0;Row:0)
+FWVersion, 21 (Column:1;Row:0)
 
 
-Delta0,3 (visible:1)
-Delta1,3 (visible:1)
-Delta2,3 (visible:1)
-Delta3,3 (visible:1)
-Delta4,3 (visible:1)
-Delta5,3 (visible:1)
-Threshold0,3 (visible:1)
-Threshold1,3 (visible:1)
-Threshold2,3 (visible:1)
-Threshold3,3 (visible:1)
-Threshold4,3 (visible:1)
-Threshold5,3 (visible:1)
-NoiseEnv0,3 (visible:0)
-NoiseEnv1,3 (visible:0)
-NoiseEnv2,3 (visible:0)
-NoiseEnv3,3 (visible:0)
-NoiseEnv4,3 (visible:0)
-NoiseEnv5,3 (visible:0)
+Delta0,300 (visible:1)
+Delta1,300 (visible:1)
+Delta2,300 (visible:1)
+Delta3,300 (visible:1)
+Delta4,300 (visible:1)
+Delta5,300 (visible:1)
+Threshold0,300 (visible:1)
+Threshold1,300 (visible:1)
+Threshold2,300 (visible:1)
+Threshold3,300 (visible:1)
+Threshold4,300 (visible:1)
+Threshold5,300 (visible:1)
+NoiseEnv0,300 (visible:0)
+NoiseEnv1,300 (visible:0)
+NoiseEnv2,300 (visible:0)
+NoiseEnv3,300 (visible:0)
+NoiseEnv4,300 (visible:0)
+NoiseEnv5,300 (visible:0)
 
+Delta0,301 (visible:1)
+Delta1,301 (visible:1)
+Delta2,301 (visible:1)
+Delta3,301 (visible:1)
+Delta4,301 (visible:1)
+Delta5,301 (visible:1)
+Threshold0,301 (visible:1)
+Threshold1,301 (visible:1)
+Threshold2,301 (visible:1)
+Threshold3,301 (visible:1)
+Threshold4,301 (visible:1)
+Threshold5,301 (visible:1)
+NoiseEnv0,301 (visible:0)
+NoiseEnv1,301 (visible:0)
+NoiseEnv2,301 (visible:0)
+NoiseEnv3,301 (visible:0)
+NoiseEnv4,301 (visible:0)
+NoiseEnv5,301 (visible:0)
+
+
+Detect0, 2
+Detect1, 3
+Detect2, 4
+Detect3, 5
+Detect4, 6
+Detect5, 7
 
